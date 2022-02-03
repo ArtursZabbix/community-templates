@@ -1,3 +1,4 @@
+<DEMONSTRATION>
 # Zabbix public templates
 
 ## A place for community driven integrations with Zabbix
