@@ -1,4 +1,3 @@
-<DEMO> Some changes! Some more changes!
 # Zabbix public templates
 
 ## A place for community driven integrations with Zabbix
